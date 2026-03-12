@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Photographer+%F0%9F%93%B8" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00BFFF)](https://www.mosambiswas.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00BFFF)](https://www.mosambiswas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosambiswas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiswasMosam)
 [![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/MosamBiswas)
@@ -86,7 +86,7 @@ print(me.get_skills())
 
 ## 🔬 Research & Publications
 
-### 📄 [Comparative Analysis of Psychometric Data for Mental Health Assessment](https://www.mosambiswas.me/ResearchPaper.pdf)
+### 📄 [Comparative Analysis of Psychometric Data for Mental Health Assessment](https://www.mosambiswas.com/ResearchPaper.pdf)
 
 **Conference:** 2nd International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI-2025)  
 **Paper ID:** 34
@@ -170,7 +170,7 @@ AI-powered bank statement analyzer that extracts transactions from PDFs/images a
 
 ### ✅ [To-Do App](https://github.com/BiswasMosam/To-Do)
 
-Full-stack task management app with user authentication, board interface, and backend integration. Try it live at [mosambiswas.me/To-Do](https://www.mosambiswas.me/To-Do/)
+Full-stack task management app with user authentication, board interface, and backend integration. Try it live at [mosambiswas.com/To-Do](https://www.mosambiswas.com/To-Do/)
 
 **Tech:** `Node.js` `JavaScript` `HTML/CSS`
 
@@ -179,7 +179,7 @@ Full-stack task management app with user authentication, board interface, and ba
 
 ### 🎨 More Projects...
 
-Check out my [portfolio](https://www.mosambiswas.me/) for more projects including ArtScape, Employee Task Tracker, and photography work!
+Check out my [portfolio](https://www.mosambiswas.com/) for more projects including ArtScape, Employee Task Tracker, and photography work!
 
 </td>
 </tr>
@@ -218,7 +218,7 @@ Check out my [portfolio](https://www.mosambiswas.me/) for more projects includin
 |  📄 **Research Publication**  | Paper presented at ICAIIHI-2025 Conference                  |
 |     📸 **Technical Head**     | Photocircle RAIT (2022-2025)                                |
 
-[📋 View All Certificates →](https://www.mosambiswas.me/certificates.html)
+[📋 View All Certificates →](https://www.mosambiswas.com/certificates.html)
 
 </div>
 
@@ -272,7 +272,7 @@ When I'm not coding, you'll find me:
 
 💻 **Code:**  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BiswasMosam)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=00BFFF)](https://www.mosambiswas.me/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=00BFFF)](https://www.mosambiswas.com/)
 
 📧 **Reach Out:**  
 [![Gmail](https://img.shields.io/badge/-mosambiswas999@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mosambiswas999@gmail.com)
