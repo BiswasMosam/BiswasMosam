@@ -46,7 +46,7 @@ const RULE_BOT = 540;
 const MOSAM_BASE = Math.round(RULE_TOP + 48 + FS_MOSAM * CAP);          // ≈ 285
 const BISWAS_BASE = Math.round(MOSAM_BASE + 34 + FS_BISWAS * CAP);      // ≈ 477
 
-const hero = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Mosam Biswas — developer, researcher, photographer — Navi Mumbai, India">
+const hero = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Mosam Biswas · developer, researcher, photographer · Navi Mumbai, India">
   <style>
     ${fontFaces}
     .mono { font-family: 'Space Mono', monospace; font-size: 13px; letter-spacing: 2.2px; fill: ${DIM}; }
@@ -71,8 +71,8 @@ const hero = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}"
   <rect id="hairline" x="0" y="0" width="280" height="2" fill="${ACCENT}"/>
 
   <!-- top mono row -->
-  <text class="mono" x="${PAD}" y="58">THE GARAGE — GITHUB</text>
-  <text class="mono" x="${W / 2}" y="58" text-anchor="middle">DEVELOPER — RESEARCHER — PHOTOGRAPHER</text>
+  <text class="mono" x="${PAD}" y="58">THE GARAGE · GITHUB</text>
+  <text class="mono" x="${W / 2}" y="58" text-anchor="middle">DEVELOPER · RESEARCHER · PHOTOGRAPHER</text>
   <text class="mono" x="${W - PAD}" y="58" text-anchor="end">NAVI MUMBAI, IN</text>
   <line x1="${PAD}" y1="82" x2="${W - PAD}" y2="82" stroke="${LINE}"/>
 
@@ -91,8 +91,8 @@ const hero = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}"
   <line x1="${PAD}" y1="540" x2="${W - PAD}" y2="540" stroke="${LINE}"/>
 
   <!-- foot: serif tagline / mono credential -->
-  <text class="serif" x="${PAD}" y="575">Builds things that <tspan class="lit">learn</tspan> — photographs things that <tspan class="lit">won&#8217;t hold still</tspan>.</text>
-  <text class="mono" x="${W - PAD}" y="573" text-anchor="end">B.TECH AI &amp; DS — RAIT &#8217;26</text>
+  <text class="serif" x="${PAD}" y="575">Builds things that <tspan class="lit">learn</tspan>, photographs things that <tspan class="lit">won&#8217;t hold still</tspan>.</text>
+  <text class="mono" x="${W - PAD}" y="573" text-anchor="end">B.TECH AI &amp; DS · RAIT &#8217;26</text>
 
   <!-- film grain -->
   <defs>${grain}</defs>
