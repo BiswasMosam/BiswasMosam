@@ -15,6 +15,7 @@ B.Tech AI & Data Science graduate, RAIT, D.Y. Patil University, Class of 2026. I
 | `PROJECT` | `WHAT IT IS` | `BUILT WITH` |
 | :-- | :-- | :-- |
 | [**AMINAL**](https://github.com/BiswasMosam/Aminal-Public) | Local-first voice assistant for Windows. Voice, vision and memory on your own GPU, nothing leaves the machine | `Python` `Whisper` `Ollama` |
+| [**Fill.ai**](https://github.com/BiswasMosam/Fill.ai) | AI form filler for Chrome. Learns you from your resume, fills what it knows, asks about the rest, never submits | `JavaScript` `Chrome MV3` `LLMs` |
 | [**PixelForge**](https://github.com/BiswasMosam/PixelForge) | Leukemia detection on C-NMC at 0.90 ROC-AUC, a custom GAN augments scarce medical data | `PyTorch` `GANs` |
 | [**MindFirst**](https://github.com/BiswasMosam/Mind-First) | Mental-health screening for 100+ students, chatbot plus psychometrics at 95% accuracy | `Next.js` `Flask` `Prisma` |
 | [**Rail Mitra**](https://github.com/BiswasMosam/RailMind) | Railway platform and track assignment, solved as constraint programming | `Python` `OR-Tools` |
