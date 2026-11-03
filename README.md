@@ -15,13 +15,14 @@ B.Tech AI & Data Science graduate, RAIT, D.Y. Patil University, Class of 2026. I
 | `PROJECT` | `WHAT IT IS` | `BUILT WITH` |
 | :-- | :-- | :-- |
 | [**AMINAL**](https://github.com/BiswasMosam/Aminal-Public) | Local-first voice assistant for Windows. Voice, vision and memory on your own GPU, nothing leaves the machine | `Python` `Whisper` `Ollama` |
+| [**Locals**](https://github.com/BiswasMosam/Locals) | A town of AI users that test your web and Android apps like real people and say where they got stuck. 114 locals from 9 job families, human limits enforced in code | `Python` `Playwright` `Ollama` |
 | [**Fill.ai**](https://github.com/BiswasMosam/Fill.ai) | AI form filler for Chrome. Learns you from your resume, fills what it knows, asks about the rest, never submits | `JavaScript` `Chrome MV3` `LLMs` |
-| [**PixelForge**](https://github.com/BiswasMosam/PixelForge) | Leukemia detection on C-NMC at 0.90 ROC-AUC, a custom GAN augments scarce medical data | `PyTorch` `GANs` |
 | [**MindFirst**](https://github.com/BiswasMosam/Mind-First) | Mental-health screening for 100+ students, chatbot plus psychometrics at 95% accuracy | `Next.js` `Flask` `Prisma` |
+| [**PixelForge**](https://github.com/BiswasMosam/PixelForge) | Leukemia detection on C-NMC at 0.90 ROC-AUC, a custom GAN augments scarce medical data | `PyTorch` `GANs` |
 | [**Rail Mitra**](https://github.com/BiswasMosam/RailMind) | Railway platform and track assignment, solved as constraint programming | `Python` `OR-Tools` |
 | [**IntelliStatement**](https://github.com/BiswasMosam/LLM-bank-statement-analyzer) | Bank statements in, financial insight out. LLM extraction from PDFs and images | `FastAPI` `Streamlit` `LLM` |
-| [**Sim Sim**](https://github.com/BiswasMosam/SimSim-Virtual-Assistant) | Voice-driven desktop assistant with a native GUI, 70% faster task execution | `Python` `PySide6` |
 | [**Committee Connect**](https://github.com/BiswasMosam/CommitteesManagement) | Task and attendance tracking for college committees, real-time sync | `Android` `Java` `Firebase` |
+| [**Sim Sim**](https://github.com/BiswasMosam/SimSim-Virtual-Assistant) | Voice-driven desktop assistant with a native GUI, 70% faster task execution | `Python` `PySide6` |
 
 Running in a browser right now: [**PixelShift**](https://www.mosambiswas.com/PixelShift/), batch image conversion with zero uploads, and [**To-Do**](https://www.mosambiswas.com/To-Do/), full-stack task boards with auth. The rest, including [the site itself](https://github.com/BiswasMosam/BiswasMosam.github.io), lives at [`mosambiswas.com`](https://www.mosambiswas.com/).
 
