@@ -24,7 +24,7 @@ B.Tech AI & Data Science graduate, RAIT, D.Y. Patil University, Class of 2026. I
 | [**Committee Connect**](https://github.com/BiswasMosam/CommitteesManagement) | Task and attendance tracking for college committees, real-time sync | `Android` `Java` `Firebase` |
 | [**Sim Sim**](https://github.com/BiswasMosam/SimSim-Virtual-Assistant) | Voice-driven desktop assistant with a native GUI and 23 commands, from alarms to WhatsApp | `Python` `PySide6` |
 
-Running in a browser right now: [**PixelShift**](https://www.mosambiswas.com/PixelShift/), batch image conversion with zero uploads, and [**To-Do**](https://www.mosambiswas.com/To-Do/), full-stack task boards with auth. The rest, including [the site itself](https://github.com/BiswasMosam/BiswasMosam.github.io), lives at [`mosambiswas.com`](https://www.mosambiswas.com/).
+Running in a browser right now: [**Locals**](https://www.mosambiswas.com/Locals/), the town's window on real kept days, [**PixelShift**](https://www.mosambiswas.com/PixelShift/), batch image conversion with zero uploads, and [**To-Do**](https://www.mosambiswas.com/To-Do/), full-stack task boards with auth. The rest, including [the site itself](https://github.com/BiswasMosam/BiswasMosam.github.io), lives at [`mosambiswas.com`](https://www.mosambiswas.com/).
 
 ### `(02) · EXPERIENCE`
 
