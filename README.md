@@ -4,6 +4,8 @@
 
 [`mosambiswas.com`](https://www.mosambiswas.com/) · [`résumé`](https://www.mosambiswas.com/resume.html) · [`sheichobi · photography`](https://www.mosambiswas.com/sheichobi/sheichobi.html) · [`linkedin`](https://linkedin.com/in/mosambiswas) · [`g.dev`](https://g.dev/MosamBiswas) · [`mail`](mailto:mosambiswas999@gmail.com)
 
+In a terminal? `ssh mosambiswas.com` · `curl mosambiswas.com`
+
 </div>
 
 <img src="assets/marquee.svg" width="100%" alt="AI/ML · full-stack · Android · research · photography · automation" />
